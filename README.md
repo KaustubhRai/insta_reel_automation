@@ -1,5 +1,6 @@
-EXPERIMENTAL and still bare bones 
+### EXPERIMENTAL and still bare bones 
 
+<br>
 i hate insta's algorithm of showing reels, so to either confuse the algorithm or some absolute disgust of what i just saw in a reel. instead of clicking 4-5 times and not getting such recommendations, i tried implementing it into a single click. 
 
 It adds a custom "Action" button to the page, which when clicked, performs the following steps:
@@ -17,3 +18,9 @@ Automates the process of reporting a post as spam
 ## Installation
 - Download the repo, unzip it and navigate to the Extensions page of your browser
 - Enable "Developer mode" and Click on the "Load unpacked" button and select the folder containing the extension's source code.
+
+
+## Video Demo
+
+https://github.com/KaustubhRai/insta_reel_automation/assets/28558847/7bb24768-e7ab-4edc-b2b2-538df3517df7
+

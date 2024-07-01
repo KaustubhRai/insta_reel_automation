@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Instagram Reel Button",
+    "version": "1.0",
+    "description": "Adds a button next to Instagram reels",
+    "permissions": ["https://www.instagram.com/reels/*"],
+    "content_scripts": [
+      {
+        "matches": ["https://www.instagram.com/reels/*"],
+        "js": ["content.js"],
+        "css": ["styles.css"]
+      }
+    ]
+  }
